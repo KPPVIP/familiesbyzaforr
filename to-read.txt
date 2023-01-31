@@ -1,0 +1,27 @@
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Hi everyone, now we are here for the families district I hope you're gonna like it (next is vagos)
+
+Map : update of district families 
+
+ -------------------------------------------------------------------------------------------------------------------------
+
+FiveM installation; 
+-Install the file from 5mods and open it with winrar or any other program that makes you able to unzip it.
+-Unzip the file and drag it to your desktop
+-You can delete the text document if you don’t want it
+-The file “YMAP” contains a stream folder with the ymaps in and a resource to be faster to add to your server; so you need to drag the “familiesbyzaforr” file to your server map folder
+-If you want, just add the line “ensure familiesbyzaforr” to your server.cfg to open it by itself
+
+
+SinglePlayer installation; 
+-Install from here and only extract the “familiesbyzaforr” ymap file to your desktop 
+-Download OpenIV, if you don’t have it; https://openiv.com/ 
+-After the app is open, make sure to click on edit mode to be able to drag your files
+-Go to update-x64 -dlcpacks-custom_maps-dlc.rpf-x64-levels-gta5-citye-maps- custom_maps.rpf
+-When you are there, just drag the ymap file in there and you’re done! 
+(I also added the xml file for you if you want to use it with the menyoo, for example)
+
+;)
